@@ -35,9 +35,14 @@ df.head()
 
 
             title        	           audience_score	   number_of_audience_ratings
-0	12 Angry Men (Twelve Angry Men) (1957)	  97	          103672
+0	12 Angry Men (Twelve Angry Men) (1957)	  97	          103672  
+
 1	12 Years a Slave (2013)                 	90	          138789
+
 2	A Hard Day's Night (1964)               	89	          50067
+
 3	A Streetcar Named Desire (1951)	          90            54761
+
 4	Alien (1979)	                            94	          457186
+
 5	All About Eve (1950)	                    94	          44564

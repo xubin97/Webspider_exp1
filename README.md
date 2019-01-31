@@ -1,5 +1,5 @@
 # spiders
-simple python spider
+爬取烂番茄Top100电影数据（requests、Beautiful Soup工具）
 
 编写这个简单的python爬虫是为了数据分析中收集数据这一步来做基础。这是最基础的，还会继续在此基础上继续扩展，使其功能更加完整！
 
